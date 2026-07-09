@@ -112,8 +112,8 @@ resources in various domains.
 <section>
 <h2>Across the Internet</h2>
 <ul>
-<li>LinkedIn: Add your LinkedIn profile link</li>
-<li>GitHub: Add your GitHub profile link</li>
+<li>LinkedIn: https://www.linkedin.com/in/archana-laxsini-v-c-b220893ab </li>
+<li>GitHub: https://github.com/Laxsini</li>
 </ul>
 </section>
 </main>
